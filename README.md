@@ -1,1 +1,1 @@
-# odin-recipes
+My current project is to make a recipe website by the end of this project i should be able to know a bit in html and css
